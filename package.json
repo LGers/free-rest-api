@@ -1,0 +1,21 @@
+{
+  "name": "free-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LGers/free-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LGers/free-rest-api/issues"
+  },
+  "homepage": "https://github.com/LGers/free-rest-api#readme"
+}
