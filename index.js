@@ -8,7 +8,7 @@ const server = http.createServer()
 server.on("request", (request, response) => {
     // handle request based on method then URL
     response.statusCode = 200
-    response.write("Hello World")
+    response.write("Hello World - Render api test")
     response.end()
 })
 // get the server to start listening
